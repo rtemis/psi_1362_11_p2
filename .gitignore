@@ -1,0 +1,10 @@
+###############
+# GITIGNORE   #
+# PSI P2      #
+# LEAH HADEED #
+# GEMA RUIZ   #
+###############
+
+*.pyc
+*.tmp
+*.bak
